@@ -1,1 +1,3 @@
 # Python-TicTacToe-Game
+
+The program generates a 2 player tic-tac-toe game.  The first player is prompted to choose a marker, 'X' or 'O' and the second player is assigned the other marker. The player to take the first turn is then determined randomly. Players alternate turns via prompts to choose an available position on the board, 1 to 9 (left to right across rows). Incorrect choices (position already taken, number out of range or some other character) result in additional prompts. The game ends when either a player wins or the board is full, in which case a prompt appears  to play another game or quit.
